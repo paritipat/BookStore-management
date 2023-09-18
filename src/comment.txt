@@ -1,0 +1,15 @@
+        // System.out.println(Data.MgBook[0].getOuterCover());
+        // System.out.println(Data.MgBook[0].getNumOfBooks());
+        // System.out.println(Data.NvBook[2].getName());
+        // System.out.println(Data.LnvBook[0].getName());
+        // System.out.println(Data.TlBook[0].getName());
+        // System.out.println(Data.TlBook[1].getNumOfBooks());
+        // System.out.println(dic.books.get("74135001RJ").getName());
+        // System.out.println(dic.books.get("74135001LP").getNumOfBooks());
+        // System.out.println(dic.books.get("712073001CE").getName());
+        // System.out.println(dic.books.get("34294001OP").getNumOfBooks());
+        // dic.books.get("34294001OP").sellBook(1);
+        // System.out.println(dic.books.get("34294001OP").getNumOfBooks());
+        // System.out.println(dic.books.get("40314001SU").getNumOfBooks());
+        // dic.books.get("40314001SU").sellBook(1);
+        // System.out.println(dic.books.get("40314001SU").getNumOfBooks());
